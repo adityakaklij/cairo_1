@@ -1,0 +1,36 @@
+30-04-23
+Exercise 1
+    Intro 
+    Inatialising Contract 
+
+Exercise 2
+    Asserts (require)
+    Storage variables
+    getter function
+    structs
+
+Exercise 3
+    read, write mapping
+
+Exercise 4
+    Arrya
+    OptionTrait
+    
+Exercise 5
+    Private variables 
+
+
+01-05-23
+02-05-23
+Exercise 6
+    Function, visibilities
+
+Exercise 7
+    Compairing values.
+
+Exercise 8
+    Recursuin 1
+    mapping of mapping
+
+
+Web3 Key Analyzer. A tool that will able to extract all the information of the key pairs provided by the user and by using ml model will analysis the behavious of the address
