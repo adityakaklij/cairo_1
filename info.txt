@@ -33,4 +33,10 @@ Exercise 8
     mapping of mapping
 
 
+03-05-23
+Exercise 9
+    Recursion 3
+    arrays
+
+
 Web3 Key Analyzer. A tool that will able to extract all the information of the key pairs provided by the user and by using ml model will analysis the behavious of the address
