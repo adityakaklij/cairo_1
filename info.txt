@@ -38,5 +38,8 @@ Exercise 9
     Recursion 3
     arrays
 
+Exercise 10
+    Composability 
+    Importing the function from otherfile with trat as interface
 
 Web3 Key Analyzer. A tool that will able to extract all the information of the key pairs provided by the user and by using ml model will analysis the behavious of the address
